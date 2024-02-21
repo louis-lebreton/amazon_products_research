@@ -4,7 +4,7 @@
 </p>
 
 ### Project goal : 
-The goal of the project was to analyze product data from Amazon US and then create a graphical interface that allows a user to search for products according to chosen criteria (such as price, category, rating, etc.)
+The goal of the project was to analyze product data from Amazon US (https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products) and then create a graphical interface that allows a user to search for products according to chosen criteria (such as price, category, rating, etc.)
 
 ### Project steps :
 - Product data analysis
